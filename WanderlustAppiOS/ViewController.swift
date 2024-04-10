@@ -85,6 +85,7 @@ class ViewController: UIViewController {
     }
     
     
+    // Comment added
     @objc func onRegistrationTapped(){
        
         let registrationScreen = RegistrationViewController()
